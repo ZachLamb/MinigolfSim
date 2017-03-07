@@ -1,0 +1,500 @@
+   71  atom worker.js 
+   72  git add --all
+   73  git commit -m "fixed changing columns"
+   74  git push origin userMatrixControl
+   75  clear
+   76  git fetch
+   77  git checkout master
+   78  git pull
+   79  git add --all
+   80  git commit -m "updates grid dynamically"
+   81  clear
+   82  clear
+   83  git pull origin master
+   84  git branch
+   85  git push origin userMatrixControl
+   86  clear
+   87  git add --all
+   88  git commit -m "fixed bug"
+   89  git push origin master
+   90  git push origin userMatrixControl
+   91  git branch
+   92  git checkout master
+   93  git stash
+   94  git checkout master
+   95  git pull
+   96  clear
+   97  git checkout origin/responsive-matrix
+   98  git branch
+   99  git fetch
+  100  git branch
+  101  git checkout responsive-matrix
+  102  git branch
+  103  npm start
+  104  ls
+  105  cd CodingProjects/
+  106  ls
+  107  cd fall2016/seniorProjs/
+  108  ls
+  109  cd react-color/
+  110  ls
+  111  npm start
+  112  cd CodingProjects/
+  113  ls
+  114  cd fall2016/
+  115  ls
+  116  cd seniorProjs/
+  117  ls
+  118  cd react-color/
+  119  ls
+  120  cd ..
+  121  ls
+  122  cd ..
+  123  ls
+  124  cd ..
+  125  atom ZachLamb.github.io/
+  126  ls
+  127  bundle exec jekyll build
+  128  cd ZachLamb.github.io/
+  129  ls
+  130  bundle exec jekyll serve
+  131  git add --all
+  132  git commit -m "added in my projects and changed project images to be more generic and easier to add projects"
+  133  git push origin master
+  134  bundle exec jekyll build
+  135  git branch
+  136  git checkout gh-pages
+  137  git add --all
+  138  git commit -m "added more projects into website"
+  139  git push origin gh-pages
+  140  cd CodingProjects/
+  141  ls
+  142  cd ZachLamb.github.io/
+  143  ls
+  144  atom
+  145  bundle exec jekyll serve
+  146  git checkout master
+  147  ls
+  148  rm -rf _site
+  149  clear
+  150  git checkout master
+  151  bundle exec jekyll serve
+  152  git add --all
+  153  git commit -m "fixed broken mobile links ,and fixed image path on projects"
+  154  git push origin master
+  155  bundle exec jekyll build
+  156  git checkout gh-pages
+  157  git add --all
+  158  git commit -m "fixed broken links and imagepath"
+  159  git push origin gh-pages
+  160  git checkout master
+  161  cd CodingProjects/z
+  162  cd CodingProjects/
+  163  cd ZachLamb.github.io/
+  164  ls
+  165  git branch
+  166  git checkout master
+  167  bundle exec jekyll build
+  168  bundle exec jekyll build
+  169  bundle exec jekyll build
+  170  git checkout gh-pages
+  171  git stash
+  172  git checkout gh-pages
+  173  git push origin gh-pages
+  174  git add --all
+  175  git commt -m "fixed images broken this time"
+  176  git commit -m "fixed images broken this time"
+  177  git push origin gh-pages
+  178  ls
+  179  ls
+  180  cd ..
+  181  ls
+  182  atom BlockyTalkyWebsite/
+  183  ls 
+  184  cd BlockyTalkyWebsite/
+  185  ls
+  186  mkdir _layout
+  187  clear
+  188  ls
+  189  cd ..
+  190  ls
+  191  cd ..
+  192  ls
+  193  cd ZachLamb.github.io/
+  194  ls
+  195  clear
+  196  git branch
+  197  git checkout master
+  198  clear
+  199  ls
+  200  ls
+  201  cd ..
+  202  ls
+  203  cd CodingProjects/
+  204  ls
+  205  cd BlockyTalkyWebsite/
+  206  ls
+  207  ls
+  208  cd BlockyTalkyWebsite/
+  209  ls
+  210  cd ..
+  211  atom BlockyTalkyWebsite/
+  212  ls
+  213  bundle exec jekyll serve
+  214  cd BlockyTalkyWebsite/
+  215  ls
+  216  bundle install
+  217  clear
+  218  ls
+  219  bundle exec jekyll serve
+  220  cd CodingProjects/
+  221  ls
+  222  cd BlockyTalkyWebsite/
+  223  ls
+  224  cd BlockyTalkyWebsite/
+  225  ls
+  226  bundle exec jekyll serve
+  227  ls
+  228  cd ..
+  229  cd ..
+  230  cd ..
+  231  cd MobileDevelopment/
+  232  ls
+  233  git add --all
+  234  git commit -m "added in pinch to zoom"
+  235  git push origin master
+  236  clear
+  237  cd CodingProjects/
+  238  ls
+  239  cd fall2016/
+  240  ls
+  241  cd mad/
+  242  ls
+  243  cd Fall16_MAD/
+  244  ls
+  245  git pull
+  246  clear
+  247  ls
+  248  cd week7/
+  249  ls
+  250  cd gestures/
+  251  ls
+  252  open gestures.xcodeproj/
+  253  cd ..
+  254  cd ..
+  255  cd ..
+  256  ls
+  257  cd ..
+  258  ls
+  259  ls
+  260  cd seniorProjs/
+  261  ls
+  262  cd react-color/
+  263  ls
+  264  git fetch
+  265  git checkout origin/navbar
+  266  npm start
+  267  git add --all
+  268  git commit -m "finished Lab 5"
+  269  cd ..
+  270  ls
+  271  cd ..
+  272  ls
+  273  cd mad/
+  274  ls
+  275  cd MobileDevelopment/
+  276  ls
+  277  git add --all
+  278  git commit -m "finished lab 6"
+  279  git push origin master
+  280  ls
+  281  git add --all
+  282  git commit -m "fixed spacing in Lab6 ,and finished Lab5"
+  283  git push origin master
+  284  cd ..
+  285  ls
+  286  cd ..
+  287  ls
+  288  cd seniorProjs/react-color/
+  289  ls
+  290  git branch
+  291  git checkout master
+  292  git fetch
+  293  git checkout -b origin/navbar
+  294  ls
+  295  git branch
+  296  npm start
+  297  git checkout master
+  298  git fetch
+  299  git checkout -b navBar origin/navBar
+  300  git checkout -b navbar origin/navbar
+  301  clear
+  302  git checkout navbar
+  303  ls
+  304  npm start
+  305  npm start
+  306  npm start
+  307  ls
+  308  atom src/
+  309  apm install react
+  310  atom src/
+  311  git add --all
+  312  git commit -m "made buttons and forms prettier"
+  313  git push origin navbar
+  314  atom src/
+  315  git status
+  316  git add --all
+  317  git commit -m "rearranged components"
+  318  git push origin navbar
+  319  clear
+  320  cd CodingProjects/se
+  321  cd CodingProjects/fall2016/seniorProjs/
+  322  ls
+  323  cd react-color/
+  324  ls
+  325  npm start
+  326  cd co
+  327  cd CodingProjects/
+  328  ls
+  329  cd ZachLamb.github.io/
+  330  ls
+  331  cd ..
+  332  atom ZachLamb.github.io/
+  333  cd ZachLamb.github.io/
+  334  ls
+  335  bundle exec jekyll serve
+  336  bundle install
+  337  bundle exec jekyll serve
+  338  clear
+  339  cd ..
+  340  cd fall2016/seniorProjs/
+  341  ls
+  342  cd react-color/
+  343  ls
+  344  npm start
+  345  ls
+  346  atom src/
+  347  ls
+  348  cd CodingProjects/fall2016/seniorProjs/fa
+  349  cd CodingProjects/fall2016/seniorProjs/react-color/
+  350  ls
+  351  git branch
+  352  git status
+  353  git add --all
+  354  git commit -m "changed column size of input fields"
+  355  git push origin navbar
+  356  ls
+  357  npm start
+  358  git add --all
+  359  git commit -m "fixed navbar to span entire page"
+  360  git push origin navbar
+  361  atom src/
+  362  cd CodingProjects/
+  363  ls
+  364  cd fall2016/seniorProjs/
+  365  ls
+  366  cd react-color/
+  367  ls
+  368  git checkout master
+  369  git pull
+  370  clear
+  371  npm start
+  372  cd CodingProjects/
+  373  ls
+  374  cd fall2016/
+  375  ls
+  376  cd seniorProjs/
+  377  ls
+  378  cd react-color/
+  379  ls
+  380  npm start
+  381  ls
+  382  cd ..
+  383  atom ZachLamb.github.io/
+  384  ls
+  385  cd ..
+  386  ls
+  387  cd CodingProjects/fall2016/seniorProjs/react-color/
+  388  ls
+  389  atom src/
+  390  npm start
+  391  git checkout -b fixedMatrixSize
+  392  git add --all
+  393  git commit -m "changed string to int matrix size input"
+  394  git push origin fixedMatrixSize
+  395  clear
+  396  npm start
+  397  cd ..
+  398  ls
+  399  cd ..
+  400  ls
+  401  cd ZachLamb.github.io/
+  402  ls
+  403  atom index.md 
+  404  cd CodingProjects/
+  405  ls
+  406  clear
+  407  ls
+  408  cd fall2016/l
+  409  cd fall2016/
+  410  ls
+  411  cd..
+  412  cd ..
+  413  atom BlockyTalkyWebsite/
+  414  clear
+  415  ls
+  416  cd ZachLamb.github.io/
+  417  ls
+  418  clear
+  419  bundle exec jekyll serve
+  420  ls
+  421  cd ..
+  422  ls
+  423  cd BlockyTalkyWebsite/
+  424  ls
+  425  cd BlockyTalkyWebsite/
+  426  bundle exec jekyll serve
+  427  bundle exec jekyll serve
+  428  bundle exec jekyll serve
+  429  bundle exec jekyll serve
+  430  bundle exec jekyll serve
+  431  bundle exec jekyll serve
+  432  bundle exec jekyll serve
+  433  bundle exec jekyll serve
+  434  bundle exec jekyll serve
+  435  bundle exec jekyll serve
+  436  bundle exec jekyll serve
+  437  bundle exec jekyll serve
+  438  bundle exec jekyll serve
+  439  bundle exec jekyll serve
+  440  bundle exec jekyll serve
+  441  bundle exec jekyll serve
+  442  clear
+  443  git add --all
+  444  git commit -m "made default layout, home and home page"
+  445  git push origin master
+  446  cd CodingProjects/
+  447  ls
+  448  atom ZachLamb.github.io/
+  449  cd ZachLamb.github.io/
+  450  ls
+  451  bundle exec jekyll serve
+  452  bundle exec jekyll serve
+  453  bundle exec jekyll build
+  454  git add --all
+  455  git commit -m "added more projects"
+  456  git checkout gh-pages
+  457  git checkout master
+  458  git checkout gh-pages
+  459  git add --all
+  460  git commit -m "added in build with new projects"
+  461  git push origin gh-pages
+  462  ls
+  463  cd CodingProjects/
+  464  ls
+  465  atom ZachLamb.github.io/
+  466  cd ZachLamb.github.io/
+  467  ls
+  468  bundle exec jekyll serve
+  469  bundle exec jekyll serve
+  470  ls
+  471  git branch
+  472  git checkout master
+  473  rm -rf _site
+  474  git checkout master
+  475  ls
+  476  cd ..
+  477  ls
+  478  cd fall2016/mad/
+  479  ls
+  480  cd Fall16_MAD/
+  481  ls
+  482  git pull
+  483  clear
+  484  cd CodingProjects/
+  485  ls
+  486  atom ZachLamb.github.io/
+  487  bundle exec jekyll serve
+  488  cd ZachLamb.github.io/
+  489  bundle exec jekyll serve
+  490  bundle exec jekyll build
+  491  git add _site
+  492  git add --all
+  493  git commit -m "added Cocal proj"
+  494  git push origin master
+  495  git checkout gh-pages
+  496  git add --all
+  497  git commit -m "added Cocal"
+  498  git push origin gh-pages
+  499  clear
+  500  ls
+  501  cd Dropbox/fall\ 2016/
+  502  ls
+  503  cd CSCI\ 4229/
+  504  ls
+  505  clear
+  506  cd HW6/
+  507  ls
+  508  make
+  509  ./hw6
+  510  ls
+  511  make
+  512  ls
+  513  make
+  514  clear
+  515  ls
+  516  rm hw6
+  517  make
+  518  ./hw6 
+  519  make
+  520  make
+  521  ./hw6 
+  522  ./hw6 
+  523  make
+  524  ./hw6 
+  525  make
+  526  make
+  527  ./hw6
+  528  make
+  529  ./hw6
+  530  make
+  531  ./hw6
+  532  make
+  533  ./hw6
+  534  make
+  535  ./hw6
+  536  make
+  537  ./hw6
+  538  make
+  539  ./hw6
+  540  make
+  541  ./hw6
+  542  make
+  543  ./hw6
+  544  make
+  545  make
+  546  ./hw6
+  547  clear
+  548  make
+  549  make
+  550  clear
+  551  ./hw6 
+  552  make
+  553  ./hw6 
+  554  make
+  555  ./hw6 
+  556  make
+  557  make
+  558  ./hw6 
+  559  make
+  560  ./hw6 
+  561  make
+  562  ./hw6 
+  563  make
+  564  ./hw6 
+  565  make
+  566  ./hw6 
+  567  make
+  568  ./hw6 
+  569  history
+  570  history > print.txt
