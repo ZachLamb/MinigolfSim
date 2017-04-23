@@ -10,11 +10,11 @@ Instructions to run:
 2) ./minigolf
 
 <h4>View of Simulation</h4>
-[first](https://github.com/ZachLamb/MinigolfSim/blob/master/Screen%20Shot%202017-03-06%20at%207.45.39%20PM.png?raw=true)
-</br>
-[second](https://github.com/ZachLamb/MinigolfSim/blob/master/Screen%20Shot%202017-03-06%20at%207.45.50%20PM.png?raw=true)
-</br>
-[third](https://github.com/ZachLamb/MinigolfSim/blob/master/Screen%20Shot%202017-03-06%20at%207.45.59%20PM.png?raw=true)
+![first](https://github.com/ZachLamb/MinigolfSim/blob/master/Screen%20Shot%202017-03-06%20at%207.45.39%20PM.png?raw=true)
+
+![second](https://github.com/ZachLamb/MinigolfSim/blob/master/Screen%20Shot%202017-03-06%20at%207.45.50%20PM.png?raw=true)
+
+![third](https://github.com/ZachLamb/MinigolfSim/blob/master/Screen%20Shot%202017-03-06%20at%207.45.59%20PM.png?raw=true)
 </br>
 
 Controls:
